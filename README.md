@@ -2,8 +2,6 @@
 
 ### I would like to tell you about my process of stepping into the software. :black_nib:
 ### About a month ago, I started doing research on software, inspired by the videos I watched on Youtube. :mag:
-<br>
-
 ### During my research, I came across a concept called Front-End. Concentrating on this concept, I increased my research. :bulb:
 
 <br>
