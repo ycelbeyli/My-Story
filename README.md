@@ -27,7 +27,7 @@
 ### In my roadmap to become a Front-End Developer, I determined the technologies I wanted to learn as follows: :point_down:
 <br>
 
-</p>
+<p align='left'>
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="44px" align="center"> 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>
